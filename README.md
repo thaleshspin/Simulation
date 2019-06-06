@@ -10,9 +10,9 @@ Download "C++ SDK 2.1.4 Linux 64" at https://community.aldebaran.com/en/resource
 
 -> qibuild init
 
--> qitoolchain create name path/to/your/sdk/toolchain.xml
+-> qitoolchain create nameOfYourToolchain path/to/your/sdk/toolchain.xml
 
--> qibuild add-config name -t name
+-> qibuild add-config nameOfYourToolchain -t nameOfYourToolchain
 
 2. Compile Rinolib -> python compileRinoLib.py
 
