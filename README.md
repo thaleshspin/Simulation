@@ -2,7 +2,7 @@
 
 This is a simulation that uses localization techniques applied to nao robots 
 
-1. Install the remote SDK from Aldebaran
+1. Install the SDK from Aldebaran
 
 Download "C++ SDK 2.1.4 Linux 64" at https://community.aldebaran.com/en/resources/software
 
