@@ -14,7 +14,7 @@ Download "C++ SDK 2.1.4 Linux 64" at https://community.aldebaran.com/en/resource
 
 -> qibuild add-config name -t name
 
--> python compileRinoLib.py
+2. Compile Rinolib -> python compileRinoLib.py
 
 2. Follow all the steps at https://github.com/thaleshsp2/OpenCV-2.4.13-Compiler-HowTo
 
